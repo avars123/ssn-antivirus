@@ -1,9 +1,9 @@
 import { useState } from 'react';
 import { Scan, Zap, HardDrive, Folder, Play, CheckCircle2, FileSearch } from 'lucide-react';
-import { Card } from './ui/card';
-import { Button } from './ui/button';
-import { Progress } from './ui/progress';
-import { Badge } from './ui/badge';
+import { Card } from './card';
+import { Button } from './button';
+import { Progress } from './progress';
+import { Badge } from './badge';
 import { motion } from 'motion/react';
 
 export function Scanner() {

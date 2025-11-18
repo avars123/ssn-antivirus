@@ -1,7 +1,7 @@
 import { Shield, Activity, Clock, Zap, CheckCircle2, AlertCircle } from 'lucide-react';
-import { Card } from './ui/card';
-import { Badge } from './ui/badge';
-import { Progress } from './ui/progress';
+import { Card } from './card';
+import { Badge } from './badge';
+import { Progress } from './progress';
 import { motion } from 'motion/react';
 
 export function Dashboard() {

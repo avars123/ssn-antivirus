@@ -1,9 +1,9 @@
 import { useState } from 'react';
-import { Sidebar } from './components/Sidebar';
-import { Dashboard } from './components/Dashboard';
-import { Scanner } from './components/Scanner';
-import { Quarantine } from './components/Quarantine';
-import { Settings } from './components/Settings';
+import { Sidebar } from './Sidebar';
+import { Dashboard } from './Dashboard';
+import { Scanner } from './Scanner';
+import { Quarantine } from './Quarantine';
+import { Settings } from './Settings';
 
 export default function App() {
   const [activeView, setActiveView] = useState('dashboard');

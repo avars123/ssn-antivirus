@@ -1,7 +1,7 @@
 import { Bell, Shield, Zap, Globe, Moon, Key, Database } from 'lucide-react';
-import { Card } from './ui/card';
-import { Switch } from './ui/switch';
-import { Separator } from './ui/separator';
+import { Card } from './card';
+import { Switch } from './switch';
+import { Separator } from './separator';
 
 export function Settings() {
   const settings = [

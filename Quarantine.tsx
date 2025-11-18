@@ -1,7 +1,7 @@
 import { AlertTriangle, Trash2, RotateCcw, FileX, Shield } from 'lucide-react';
-import { Card } from './ui/card';
-import { Button } from './ui/button';
-import { Badge } from './ui/badge';
+import { Card } from './card';
+import { Button } from './button';
+import { Badge } from './badge';
 import { motion } from 'motion/react';
 
 export function Quarantine() {
